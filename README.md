@@ -10,9 +10,13 @@ FSRCNN use deconvolution layer in order to upsample the Low Resolution Image.
 
 # Evaluation on Set5 dataset
 PSNR metric
+
 SRCNN : 33.62
+
 SRCNNex : 33.12
+
 FSRCNN (ELu): 33.5
+
 FSRCNN (PReLU) : 33.96
 
 
