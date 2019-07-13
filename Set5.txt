@@ -1,0 +1,5 @@
+data/test/Set5/baby.png
+data/test/Set5/bird.png
+data/test/Set5/butterfly.png
+data/test/Set5/head.png
+data/test/Set5/woman.png

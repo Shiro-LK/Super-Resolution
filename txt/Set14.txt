@@ -1,0 +1,14 @@
+data/test/Set14/baboon.png
+data/test/Set14/barbara.png
+data/test/Set14/bridge.png
+data/test/Set14/coastguard.png
+data/test/Set14/comic.png
+data/test/Set14/face.png
+data/test/Set14/flowers.png
+data/test/Set14/foreman.png
+data/test/Set14/lenna.png
+data/test/Set14/man.png
+data/test/Set14/monarch.png
+data/test/Set14/pepper.png
+data/test/Set14/ppt3.png
+data/test/Set14/zebra.png
