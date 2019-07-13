@@ -5,7 +5,7 @@ This repository use a Super Resolution Deep Learning approach using SRCNN and FS
 SRCNN use bicubic interpolation before feeding in the CNN the Low Resolution Image.
 FSRCNN use deconvolution layer in order to upsample the Low Resolution Image.
 
-[](https://github.com/Shiro-LK/Super-Resolution/blob/master/image/fsrcnn.png)
+![](https://github.com/Shiro-LK/Super-Resolution/blob/master/image/fsrcnn.png)
 
 
 # Evaluation on Set5 dataset
