@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+data/test/historial
+data/train
+data/test/Set14
 # C extensions
 *.so
 
