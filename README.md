@@ -1,4 +1,4 @@
-# Super Resolution Proba V Kelvins
+# Super Resolution Keras
 
 This repository use a Super Resolution Deep Learning approach using SRCNN and FSRCNN implementation.
 
